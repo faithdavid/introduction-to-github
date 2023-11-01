@@ -15,7 +15,7 @@ _Collaborate and work together on GitHub._
 
 <!--
   <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
+hello the learner why take this course
   Define terms and link to docs.github.com.
 -->
 
